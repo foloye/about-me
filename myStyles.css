@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica;
+    background-color: #cff7f3;
+    margin: 20px;
+    border: 1px solid silver
+
+}
+
+#em {
+    color: black;
+    text-decoration: underline;
+}
+
+.confess {
+    margin: 20px;
+}
+
+.con {
+    margin: 20px;
+}
+
+#mu {
+    margin: 0px;
+    text-decoration: underline;
+}
+
+#cen {
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+h3 {
+    font-family: Tahoma;
+    text-align: center;
+}
+
+#yt {
+    text-align: center;
+}
