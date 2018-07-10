@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function changeImage(){
         console.log(myPhoto.src);
-        if (myPhoto.src == "file:///Users/girlswhocode2018/development/aboutme/bodyshaming.png"){
+        if (myPhoto.src == "https://foloye.github.io/about-me/bodyshaming.png"){
         myPhoto.src = "bs.png"
     } else {
         myPhoto.src = "bodyshaming.png"
