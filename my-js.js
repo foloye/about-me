@@ -10,11 +10,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     myPhoto.addEventListener("click", changeImage)
 
-    "bodyshaming.png" = bodys
 
     function changeImage(){
         console.log(myPhoto.src);
-        if (myPhoto.src == bodys){
+        if (myPhoto.src == "https://foloye.github.io/about-me/bodyshaming.png"){
         myPhoto.src = "bs.png"
     } else {
         myPhoto.src = "bodyshaming.png"
