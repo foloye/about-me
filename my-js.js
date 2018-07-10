@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
         myPhoto.src = "bodyshaming.png"
     }
 
-}
 
+}
 
 }) // End of Dom content loaded
